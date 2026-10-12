@@ -18,4 +18,3 @@ If you are developing a production application, we recommend using TypeScript wi
 - Была стилизована страница 404
 - Реализована очистка данных задач при выходе из аккаунта
 - Улучшена логика редактирования задач, добавлена обработка ошибок
-
